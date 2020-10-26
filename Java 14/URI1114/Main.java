@@ -11,6 +11,7 @@ A entrada é composta por vários casos de testes contendo valores inteiros.
 
 Saída
 Para cada valor lido mostre a mensagem correspondente à descrição do problema.*/
+
 public class Main {
  
     public static void main(String[] args) throws IOException {
